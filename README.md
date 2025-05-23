@@ -48,9 +48,7 @@ Soy ingeniero informático, estoy ampliando mis conocimientos tanto en desarroll
 ## Redes sociales
 
 
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
+
 
 <a href="https://www.youtube.com/@joseluislopez9435">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
