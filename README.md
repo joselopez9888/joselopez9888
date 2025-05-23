@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<img width="30px">&nbsp;***Acerca de mi***
+***Acerca de mi***
 
 Soy ingeniero informático, estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como técnico de soporte en una UNIVO. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 - 🌱 Actualmente estoy aprendiendo...
@@ -19,7 +19,7 @@ Soy ingeniero informático, estoy ampliando mis conocimientos tanto en desarroll
 
 ## My Habilidades son
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
