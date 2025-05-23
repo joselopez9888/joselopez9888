@@ -10,7 +10,7 @@
 
 ***Acerca de mi***
 
-Soy ingeniero informático, estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como técnico de soporte en la Universidad de Oriente (UNIVO). Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+Soy ingeniero en Sistemas y Redes Informaticas, estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como técnico de soporte en la Universidad de Oriente (UNIVO). Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 - 🌱 Actualmente estoy aprendiendo...
   - Nest.js
   - Bootcamp de Desarrollo Full Stack Junior en tecnologias Webs
